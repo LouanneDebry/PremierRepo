@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TortueG()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Tortue\n
+comment1.params=
+comment1.target=int\ getDirection()
+comment1.text=\n\ Accesseur\ de\ la\ direction\n\n\ @return\ \ \ \ \ la\ valeur\ de\ la\ direction\n
+comment2.params=
+comment2.target=void\ avancer()
+comment2.text=\n\ M\u00E9thode\ permettant\ \u00E0\ la\ tortue\ d'avancer\ dans\ la\ direction\ fix\u00E9e\n
+comment3.params=
+comment3.target=void\ tourner()
+comment3.text=\n\ M\u00E9thode\ permettant\ de\ tourner,\ dans\ le\ sens\ des\ aiguilles\ d'une\ montre\n
+comment4.params=mode
+comment4.target=void\ tracer(boolean)
+comment4.text=\n\ M\u00E9thode\ permettant\ de\ tracer\ ou\ non\n\ Remarque\ \:\ cette\ impl\u00E9mentation\ n'est\ pas\ correcte\ \:\ elle\ ne\ garantit\ pas\n\ un\ appel\ correct\ des\ m\u00E9thodes\ ;\ on\ peut\ appeler\ deux\ fois\ de\ suite\n\ tracer(true)\ par\ exemple\n\n\ @param\ \ mode\ \ \ bool\u00E9en\ repr\u00E9sentant\ le\ mode\ de\ trace\ (vrai\ ou\ faux)\n
+comment5.params=
+comment5.target=void\ afficherTortue()
+comment5.text=\n\ Affichage\ de\ la\ tortue\n
+numComments=6

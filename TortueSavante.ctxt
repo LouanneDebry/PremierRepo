@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TortueSavante()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Tortue\n
+comment1.params=
+comment1.target=void\ avancer()
+comment1.text=\n\ M?hode\ permettant\ ?la\ tortue\ d'avancer\ dans\ la\ direction\ fix?\n
+comment2.params=
+comment2.target=void\ tourner()
+comment2.text=\n\ M?hode\ permettant\ de\ tourner,\ dans\ le\ sens\ des\ aiguilles\ d'une\ montre\n
+comment3.params=
+comment3.target=void\ afficherEtat()
+comment3.text=\n\ Affichage\ de\ l'?at\ de\ la\ tortue\n
+comment4.params=ox\ oy\ x\ y
+comment4.target=void\ afficherSegment(int,\ int,\ int,\ int)
+comment4.text=\n\ M?hode\ utilitaire\ d'affichage\ de\ segment\n\n\ @param\ \ ox\ oy\ \ \ coordonn?s\ initiales\ du\ segment\n\ @param\ \ x\ y\ \ \ coordonn?s\ finales\ du\ segment\n
+comment5.params=mode
+comment5.target=void\ tracer(boolean)
+comment5.text=\n\ M?hode\ permettant\ de\ tracer\ ou\ non\n\ Remarque\ \:\ cette\ impl?entation\ n'est\ pas\ correcte\ \:\ elle\ ne\ garantit\ pas\n\ un\ appel\ correct\ des\ m?hodes\ ;\ on\ peut\ appeler\ deux\ fois\ de\ suite\n\ tracer(true)\ par\ exemple\n\n\ @param\ \ mode\ \ \ bool?n\ repr?entant\ le\ mode\ de\ trace\ (vrai\ ou\ faux)\n
+comment6.params=s
+comment6.target=void\ parler(java.lang.String)
+comment6.text=\n\ Pour\ parler\n\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\n
+numComments=7

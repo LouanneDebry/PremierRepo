@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=void\ tortueNord(int,\ int)
+comment0.text=\n\ Dessine\ une\ tortue\ orient\u00E9e\ vers\ le\ nord\n\n\ @param\ \ x,y\ \ position\ de\ la\ tortue\n
+comment1.params=x\ y
+comment1.target=void\ tortueSud(int,\ int)
+comment1.text=\n\ Dessine\ une\ tortue\ orient\u00E9e\ vers\ le\ sud\n\n\ @param\ \ x,y\ \ position\ de\ la\ tortue\n
+comment2.params=x\ y
+comment2.target=void\ tortueEst(int,\ int)
+comment2.text=\n\ Dessine\ une\ tortue\ orient\u00E9e\ vers\ l'est\n\n\ @param\ \ x,y\ \ position\ de\ la\ tortue\n
+comment3.params=x\ y
+comment3.target=void\ tortueOuest(int,\ int)
+comment3.text=\n\ Dessine\ une\ tortue\ orient\u00E9e\ vers\ l'ouest\n\n\ @param\ \ x,y\ \ position\ de\ la\ tortue\n
+comment4.params=x1\ y1\ color
+comment4.target=void\ ecrisVertical(int,\ int,\ java.lang.String)
+comment4.text=\n\ Trace\ un\ trait\ noir\ vers\ le\ sud\n\n\ @param\ \ x1,y1\ \ \ position\ du\ point\ de\ d\u00E9part,\ en\ cases\n
+comment5.params=x1\ y1\ color
+comment5.target=void\ ecrisHorizontal(int,\ int,\ java.lang.String)
+comment5.text=\n\ Trace\ un\ trait\ noir\ vers\ l'est\n\n\ @param\ \ x1,y1\ \ \ position\ du\ point\ de\ d\u00E9part,\ en\ cases\n
+numComments=6

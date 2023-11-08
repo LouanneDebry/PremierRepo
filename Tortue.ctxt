@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Tortue()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Tortue\n
+comment1.params=
+comment1.target=int\ getDirection()
+comment1.text=\n\ Accesseur\ de\ la\ direction\n\n\ @return\ \ \ \ \ la\ valeur\ de\ la\ direction\n
+comment2.params=
+comment2.target=void\ avancer()
+comment2.text=\n\ M?thode\ permettant\ ?\ la\ tortue\ d'avancer\ dans\ la\ direction\ fix?e\n
+comment3.params=
+comment3.target=void\ tourner()
+comment3.text=\n\ M?thode\ permettant\ de\ tourner,\ dans\ le\ sens\ des\ aiguilles\ d'une\ montre\n
+comment4.params=
+comment4.target=void\ afficherEtat()
+comment4.text=\n\ Affichage\ de\ l'\u00E9tat\ de\ la\ tortue\n
+comment5.params=ox\ oy\ x\ y
+comment5.target=void\ afficherSegment(int,\ int,\ int,\ int)
+comment5.text=\n\ M\u00E9thode\ utilitaire\ d'affichage\ de\ segment\n\n\ @param\ \ ox\ oy\ \ \ coordonn?es\ initiales\ du\ segment\n\ @param\ \ x\ y\ \ \ coordonn?es\ finales\ du\ segment\n
+comment6.params=mode
+comment6.target=void\ tracer(boolean)
+comment6.text=\n\ M\u00E9thode\ permettant\ de\ tracer\ ou\ non\n\ Remarque\ \:\ cette\ impl?mentation\ n'est\ pas\ correcte\ \:\ elle\ ne\ garantit\ pas\n\ un\ appel\ correct\ des\ m?thodes\ ;\ on\ peut\ appeler\ deux\ fois\ de\ suite\n\ tracer(true)\ par\ exemple\n\n\ @param\ \ mode\ \ \ bool?en\ repr?sentant\ le\ mode\ de\ trace\ (vrai\ ou\ faux)\n
+numComments=7
